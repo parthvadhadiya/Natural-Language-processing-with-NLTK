@@ -5,7 +5,8 @@ This repositery contains Text Processing with NLTP, an Python Natural language t
 
 ## Installation
 
-install NLTK with :- sudo pip3 install nltk 
-then run :- python3 downNltk.py for download all packages from nltk
+install NLTK with:-  sudo pip3 install nltk 
+
+then run:-  python3 downNltk.py , for download all packages from nltk
 
 
