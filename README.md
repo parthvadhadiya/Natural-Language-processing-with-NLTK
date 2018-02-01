@@ -1,7 +1,7 @@
 # Project Name
 ## Natural-Language-processing-with-NLTK
 
-This repositery contains Text Processing with NLTP, an Python Natural language toolkit. for more description https://medium.com/@parthvadhadiya424/hello-world-program-with-nltk-92cd64509a9f
+This repository contain Text Processing with NLTK, Python Natural language toolkit. For more description https://medium.com/@parthvadhadiya424/hello-world-program-with-nltk-92cd64509a9f
 
 ## Installation
 
